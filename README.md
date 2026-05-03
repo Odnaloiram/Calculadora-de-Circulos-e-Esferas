@@ -37,7 +37,7 @@ Este projeto foi desenvolvido com fins educacionais, visando praticar lógica de
 
 Ao iniciar o programa, o usuário será guiado por um menu interativo no terminal.
 
-![](ImgExec\InicioDaExecução.png)
+![Inicio](ImgExec/InicioDaExecução.png)
 
 #### O sistema solicitará a escolha de uma operação:
 
@@ -45,25 +45,25 @@ Ao iniciar o programa, o usuário será guiado por um menu interativo no termina
 * **_`C` → Calcular a circunferência_**
 * **_`V` → Calcular o volume da esfera_**
 
-![](ImgExec\InserirOpçãoEscolhida.png)
+![InserirOpção](ImgExec/InserirOpçãoEscolhida.png)
 
 Em seguida, será solicitado o valor do raio.
 
-![](ImgExec\InserirValorRaio.png)
+![InserirRaio](ImgExec/InserirValorRaio.png)
 
 O programa realizará o cálculo e exibirá o resultado correspondente.
 
-![](ImgExec\ExibiçãoResultadoOperação.png)
+![Resultado](ImgExec/ExibiçãoResultadoOperação.png)
 
 Após a exibição, o sistema perguntará se o usuário deseja reiniciar:
 
-![](ImgExec\PerguntaSeDesejaReiniciarCalculadora.png)
+![ReiniciarCalc?](ImgExec/PerguntaSeDesejaReiniciarCalculadora.png)
 
 * **_`S` → Reinicia o programa_**
 * **_`N` → Encerra o programa_**
 
-![](ImgExec\InserirOpção_S_reiniciarOu_N_ParaParar.png)
-![](ImgExec\Reinicialização_da_Calculadora.png)
+![S_Reiniciar-N_Parar](ImgExec/InserirOpção_S_reiniciarOu_N_ParaParar.png)
+![Reiniciado](ImgExec/Reinicialização_da_Calculadora.png)
 
 Caso o usuário escolha N para não reiniciar o programa. O processo será finalizado.
 
