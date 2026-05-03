@@ -3,7 +3,7 @@ print("=== CALCULADORA DE CÍRCULOS E ESFERAS ===\n")
 pi = 3.14
 
 while (True):
-    opcao = str(input("Qual operação deseja realizar?\n'A' para Área\n'C' para Circunferencia\n'V' para Volume\nDigite: "))
+    opcao = str(input("Qual operação deseja realizar?\n'A' para Área\n'C' para Circunferencia\n'V' para Volume\nDigite: ")).upper()
 
     match opcao:
         case 'A':
@@ -41,9 +41,9 @@ while (True):
             print("O volume da esfera é: ", volume)
             print("-----------------------\n")
 
-    reiniciar = str(input("Deseja reiniciar as calculadoras? S/N (S para sim N para não): "))
-    if reiniciar != 'S' and reiniciar != 's' and reiniciar != 'N' and reiniciar != 'n':
+    reiniciar = str(input("Deseja reiniciar as calculadoras? S/N (S para sim N para não): ")).upper()
+    if reiniciar != 'S' and reiniciar != 'N':
         print("Caracteres Inválidos")
         break
-    if reiniciar == 'N' or reiniciar == 'n':
+    if reiniciar == 'N':
         break
