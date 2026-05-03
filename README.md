@@ -37,7 +37,7 @@ Este projeto foi desenvolvido com fins educacionais, visando praticar lógica de
 
 Ao iniciar o programa, o usuário será guiado por um menu interativo no terminal.
 
-![Inicio do Programa]("C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\Inicio da Execução.png")
+![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\InicioDaExecução.png)
 
 #### O sistema solicitará a escolha de uma operação:
 
@@ -45,25 +45,25 @@ Ao iniciar o programa, o usuário será guiado por um menu interativo no termina
 * **_`C` → Calcular a circunferência_**
 * **_`V` → Calcular o volume da esfera_**
 
-![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\Inserir a Opção escolhida.png)
+![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\InserirOpçãoEscolhida.png)
 
 Em seguida, será solicitado o valor do raio.
 
-![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\Inserir o Valor do Raio.png)
+![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\InserirValorRaio.png)
 
 O programa realizará o cálculo e exibirá o resultado correspondente.
 
-![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\Exibição do resultado da operação.png)
+![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\ExibiçãoResultadoOperação.png)
 
 Após a exibição, o sistema perguntará se o usuário deseja reiniciar:
 
-![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\Pergunta se deseja reiniciar a calculadora.png)
+![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\PerguntaSeDesejaReiniciarCalculadora.png)
 
 * **_`S` → Reinicia o programa_**
 * **_`N` → Encerra o programa_**
 
-![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\Inserir opção de S para reiniciar ou N para parar.png)
-![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\Reinicialização da calculadora.png)
+![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\InserirOpção_S_reiniciarOu_N_ParaParar.png)
+![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\Reinicialização_da_Calculadora.png)
 
 Caso o usuário escolha N para não reiniciar o programa. O processo será finalizado.
 
