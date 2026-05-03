@@ -62,7 +62,6 @@ Após a exibição, o sistema perguntará se o usuário deseja reiniciar:
 * **_`S` → Reinicia o programa_**
 * **_`N` → Encerra o programa_**
 
-![S_Reiniciar-N_Parar](ImgExec/InserirOpção_S_reiniciarOu_N_ParaParar.png)
 ![Reiniciado](ImgExec/Reinicialização_da_Calculadora.png)
 
 Caso o usuário escolha N para não reiniciar o programa. O processo será finalizado.
