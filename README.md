@@ -37,7 +37,7 @@ Este projeto foi desenvolvido com fins educacionais, visando praticar lógica de
 
 Ao iniciar o programa, o usuário será guiado por um menu interativo no terminal.
 
-![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\InicioDaExecução.png)
+![](ImgExec\InicioDaExecução.png)
 
 #### O sistema solicitará a escolha de uma operação:
 
@@ -45,25 +45,25 @@ Ao iniciar o programa, o usuário será guiado por um menu interativo no termina
 * **_`C` → Calcular a circunferência_**
 * **_`V` → Calcular o volume da esfera_**
 
-![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\InserirOpçãoEscolhida.png)
+![](ImgExec\InserirOpçãoEscolhida.png)
 
 Em seguida, será solicitado o valor do raio.
 
-![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\InserirValorRaio.png)
+![](ImgExec\InserirValorRaio.png)
 
 O programa realizará o cálculo e exibirá o resultado correspondente.
 
-![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\ExibiçãoResultadoOperação.png)
+![](ImgExec\ExibiçãoResultadoOperação.png)
 
 Após a exibição, o sistema perguntará se o usuário deseja reiniciar:
 
-![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\PerguntaSeDesejaReiniciarCalculadora.png)
+![](ImgExec\PerguntaSeDesejaReiniciarCalculadora.png)
 
 * **_`S` → Reinicia o programa_**
 * **_`N` → Encerra o programa_**
 
-![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\InserirOpção_S_reiniciarOu_N_ParaParar.png)
-![](C:\Users\Loiran\PycharmProjects\PythonProject\Calculadora_CAV\Img exe\Reinicialização_da_Calculadora.png)
+![](ImgExec\InserirOpção_S_reiniciarOu_N_ParaParar.png)
+![](ImgExec\Reinicialização_da_Calculadora.png)
 
 Caso o usuário escolha N para não reiniciar o programa. O processo será finalizado.
 
